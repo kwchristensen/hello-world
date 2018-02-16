@@ -11,7 +11,3 @@ This is exciting!
 
 
 Making some changes on the messin-around branch
-
-adding junk
-oh no!
-This is BAD...
