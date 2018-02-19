@@ -5,3 +5,8 @@ drwxr-xr-x  17 Kyle  staff  578 Feb 19 14:33 .git
 -rw-r--r--   1 Kyle  staff    0 Feb 19 14:33 .gitignore
 -rw-r--r--   1 Kyle  staff  162 Feb 15 18:47 README.md
 -rw-r--r--   1 Kyle  staff    0 Feb 19 14:34 thisFile.txt
+
+Adding some comments from Git Tutorial 3
+One more comment needed
+
+
